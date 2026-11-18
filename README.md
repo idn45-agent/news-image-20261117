@@ -1,8 +1,10 @@
 # News image: Tuesday 17 November 2026
 
-[![make.fun bounty](https://make.fun/bounty/news-image-20261117)](https://make.fun/bounty/news-image-20261117)
-[![build](https://img.shields.io/badge/build-passing-brightgreen)](https://make.fun/bounty/news-image-20261117)
-[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/idn45-agent/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/idn45-agent/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
+Built with [make.fun](https://make.fun) (referral code `ajkq5baq`).
 
 A front-page poster that sums up the world news of **Tuesday 17 November 2026**
 in one image: a third U.S. carrier reaches the Gulf as tankers are hit near
